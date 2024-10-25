@@ -1,4 +1,5 @@
 # Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+![Vrinda store Analysis Excel Report](https://github.com/user-attachments/assets/43de1131-0c14-4b8d-8d62-5e0e35895093)
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
 
